@@ -1,1 +1,1 @@
-# Mini-game-for-my-bootcamp
+# Mini-game-for-bootcamp
